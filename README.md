@@ -3,7 +3,7 @@
 **BlackArch Linux** is an ArchLinux based penetration testing distribution for
 penetration testers and security researchers. The repository contains
 [2815 tools](https://www.blackarch.org/tools.html). You can install tools
-individually or in groups. BlackArch Linux is compatible with existing Arch
+individually or in groups. RainbowArch Linux is compatible with existing Arch
 installs. For more information, see the installation instructions.
 
 To report bugs and request new tools, please visit the issue tracker on Github,
@@ -19,15 +19,15 @@ There are three ways to go:
   2. Use the [live ISO](https://blackarch.org/downloads.html).
   3. The Full and Netinstall ISOs come with a text-based installer
      (`blackarch-install`). The Slim ISO comes with a GUI-based installer.
-     You can use the installer to install BlackArch Linux onto your hard disk.
+     You can use the installer to install RainbowArch Linux onto your hard disk.
 
 ## Get Involved
 
-You can get in touch with the BlackArch Linux team. Just check out the following:
+You can get in touch with the RainbowArch Linux team. Just check out the following:
 
 **Please, send us pull requests!**
 
-To start developing for BlackArch please refer to the [Dev-Guide](./docs/HOWTO-DEV.md)
+To start developing for RainbowArch please refer to the [Dev-Guide](./docs/HOWTO-DEV.md)
 
 **Web:** https://www.blackarch.org/
 

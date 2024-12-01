@@ -10,7 +10,7 @@ installs. For more information, see the installation instructions.
 
 RainbowArch was created after I attempted to report a security issue upstream. Instead of taking the report, noptrix immediately banned me from their Matrix community (before I even sent a single message) and DMd bigoted comments to my friend.
 
-Currently, RainbowArch only tracks BlackArch's commits. RainbowArch is meant to serve as a staging ground between BlackArch packages and my new OS project.
+Currently, RainbowArch only tracks BlackArch's commits. RainbowArch is meant to serve as a staging ground between BlackArch packages and [my new OS project](https://0xacab.org/NobodySpecial/lesbiab).
 
 ### Philosophy
 

@@ -6,31 +6,12 @@ penetration testers and security researchers. The repository contains
 individually or in groups. BlackArch Linux is compatible with existing Arch
 installs. For more information, see the installation instructions.
 
-To report bugs and request new tools, please visit the issue tracker on Github,
-stop by Matrix, or email us.
+### Why does RainbowArch exist?
 
-## Download and Installation
+RainbowArch was created after I attempted to report a security issue upstream. Instead of taking the report, noptrix immediately banned me from their Matrix community (before I even sent a single message) and DMd bigoted comments to my friend.
 
-RainbowArch Linux only takes a moment to setup.
+Currently, RainbowArch only tracks BlackArch's commits. RainbowArch is meant to serve as a staging ground between BlackArch packages and my new OS project.
 
-There are three ways to go:
+### Philosophy
 
-  1. [Install on an existing Arch machine](https://www.blackarch.org/downloads.html#install-repo).
-  2. Use the [live ISO](https://blackarch.org/downloads.html).
-  3. The Full and Netinstall ISOs come with a text-based installer
-     (`blackarch-install`). The Slim ISO comes with a GUI-based installer.
-     You can use the installer to install RainbowArch Linux onto your hard disk.
-
-## Get Involved
-
-You can get in touch with the RainbowArch Linux team. Just check out the following:
-
-**Please, send us pull requests!**
-
-To start developing for RainbowArch please refer to the [Dev-Guide](./docs/HOWTO-DEV.md)
-
-**Web:** https://www.blackarch.org/
-
-**Mail:** team@blackarch.org
-
-**Matrix:** [#BlackArch:matrix.org](https://matrix.to/#/#BlackArch:matrix.org)
+RainbowArch is openly queer and proudly anti-fascist. If you think wokeness is ruining the world... Yeah, um, this distro probably isn't for you.

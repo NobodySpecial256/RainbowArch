@@ -2,8 +2,8 @@
 
 **RainbowArch Linux** is an ArchLinux based penetration testing distribution for
 penetration testers and security researchers. The repository contains
-[2815 tools](https://www.blackarch.org/tools.html). You can install tools
-individually or in groups. RainbowArch Linux is compatible with existing Arch
+[2825 tools](https://www.blackarch.org/tools.html). You can install tools
+individually or in groups. BlackArch Linux is compatible with existing Arch
 installs. For more information, see the installation instructions.
 
 To report bugs and request new tools, please visit the issue tracker on Github,
